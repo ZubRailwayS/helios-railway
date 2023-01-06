@@ -5,6 +5,6 @@
     "dockerfilePath": "Dockerfile"
   },
   "deploy": {
-    "restartPolicyType": "Never"
+    "restartPolicyType": "Always"
   }
 }
